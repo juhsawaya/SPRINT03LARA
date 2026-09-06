@@ -1,0 +1,22 @@
+PROJETO LARA - CHALLENGE FIAP 2026 x EUROFARMA
+
+VIDEO PITCH:
+https://youtu.be/aO8Ntmf0yGs
+
+REPOSITORIO GITHUB:
+https://github.com/juhsawaya/SPRINT03LARA
+
+AZURE DEVOPS:
+https://dev.azure.com/lara-fiap-rm555438/LARA-TOGAF
+
+INTEGRANTES:
+Julia Sawaia - RM555438
+Maria Eduarda Oliveira - RM558970
+Guilherme Garcia - RM558102
+Andre Pilatis - RM555897
+
+DATA DA CONFERENCIA:
+06/09/2026
+
+OBSERVACAO PARA A BANCA:
+Os links acima devem ser acessados para consulta ao video pitch, ao codigo-fonte publicado no GitHub e ao projeto Azure DevOps. Caso o Azure DevOps solicite login ou apresente erro de acesso, considerar a pendencia registrada na documentacao da entrega.
